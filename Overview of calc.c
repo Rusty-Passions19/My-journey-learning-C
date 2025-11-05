@@ -1,0 +1,1 @@
+I started using vim fairly recently, and I learned some linux kernel, using a vm (oraclefish) ubuntu through that, I also have ubuntu on my native windows laptop, which I use for projects such as this, using vim in the beginning was tough, but I am getting the hang of it, and I am continuing to develop my C skills, just an update
