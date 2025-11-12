@@ -51,7 +51,7 @@ void LexicalAnaylsis(FILE *fptr)
 int main()
 {
 	FILE *fptr;
-	fptr = fopen("/mnt/c/Users/Yahya/Desktop/tokens.txt", "w+"); //w+ allows me to write and read the file, so we're able to use while(fgets(contents, sizeof(contents), fptr) != NULL)
+	fptr = fopen("/mnt/c/Users/Username/Desktop/tokens.txt", "w+"); //w+ allows me to write and read the file, so we're able to use while(fgets(contents, sizeof(contents), fptr) != NULL)
 	if (fptr == NULL)
 	{
 		printf("Failed to create file");
